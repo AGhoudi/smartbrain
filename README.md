@@ -17,6 +17,6 @@ Je l'ai fait à l'aide de l'utilisation d'une IA.</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester l'application:
 
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
+  <a title="https://serene-island-83111.herokuapp.com/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://serene-island-83111.herokuapp.com/">https://serene-island-83111.herokuapp.com/</a></p>
