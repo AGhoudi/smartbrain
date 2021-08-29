@@ -9,7 +9,7 @@ J'ai crée une application de reconnaissance faciale.</br>
 Je l'ai fait à l'aide de l'utilisation d'une IA.</p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/131266199-5f69e219-4f94-4c2c-aeef-80bf260c5f41.png" alt="smartbrain"</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
