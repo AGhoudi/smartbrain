@@ -1,3 +1,4 @@
+![smartbrain](https://user-images.githubusercontent.com/27373255/131265613-627abb04-a617-458d-8473-b565ad151006.png)
 # smartbrain
 
 ## __Objectif du projet :__ 
