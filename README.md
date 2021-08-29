@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/131265613-627abb04-a617-458d-8473-b565ad151006.png" alt="smartbrain"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Création d'une application de reconnaissance faciale dans des images via une IA.</p>
 
 <h2 align=center>📝 Description :</h2>
 
@@ -14,7 +14,7 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS - Javascript - React - IA</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
