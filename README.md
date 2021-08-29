@@ -1,17 +1,4 @@
-![smartbrain](https://user-images.githubusercontent.com/27373255/131265613-627abb04-a617-458d-8473-b565ad151006.png)
-# smartbrain
-
-## __Objectif du projet :__ 
-
-## __Description :__
-
-
-## __Stack utilisé :__
-
-
-## __Lien web du projet :__
-
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/131265613-627abb04-a617-458d-8473-b565ad151006.png" alt="smartbrain"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
 
